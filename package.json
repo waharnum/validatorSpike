@@ -1,0 +1,6 @@
+{
+    "name": "htmlValidator",
+    "dependencies": {
+        "html-validator": "2.2.0"
+    }
+}
